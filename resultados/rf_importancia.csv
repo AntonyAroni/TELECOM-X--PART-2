@@ -1,0 +1,32 @@
+variable,importancia
+Charges.Total,0.12562586234094464
+tenure,0.11958144387368691
+Cuentas_Diarias,0.1048771375968846
+Charges.Monthly,0.10103712476242924
+Contract_Two year,0.057609701423945586
+TechSupport_1,0.05124491207832439
+OnlineSecurity_1,0.046805801030155386
+Contract_One year,0.043589783132301545
+Dependents,0.03324781396086969
+InternetService_Fiber optic,0.026801220990311046
+Partner,0.026428709407020832
+OnlineBackup_1,0.026139330296725848
+gender,0.021510267254833862
+PaymentMethod_Credit card (automatic),0.019215501453707155
+PaymentMethod_Mailed check,0.01821065717568169
+DeviceProtection_1,0.018159693676732844
+PaperlessBilling,0.016079372881918068
+PaymentMethod_Electronic check,0.015216104642096915
+MultipleLines_Yes,0.012825372060557927
+SeniorCitizen,0.012708945653748346
+DeviceProtection_No internet service,0.012524606631660646
+StreamingMovies_1,0.012081780678735353
+InternetService_No,0.01206214836435618
+StreamingTV_1,0.011992171173242467
+TechSupport_No internet service,0.011877642875782649
+OnlineSecurity_No internet service,0.00957427876763744
+StreamingTV_No internet service,0.009548424257151421
+StreamingMovies_No internet service,0.007570721821340127
+PhoneService,0.005859510134135628
+OnlineBackup_No internet service,0.0058580211437259475
+MultipleLines_No phone service,0.004135938459355594

@@ -1,0 +1,16 @@
+variable,rl_rank,rf_rank,knn_rank,rank_promedio
+Cuentas_Diarias,3.0,3.0,1.5,2.5
+Charges.Monthly,4.0,4.0,1.5,3.1666666666666665
+tenure,7.0,2.0,3.0,4.0
+Charges.Total,12.0,1.0,4.0,5.666666666666667
+InternetService_Fiber optic,2.0,10.0,5.0,5.666666666666667
+TechSupport_1,8.0,6.0,17.0,10.333333333333334
+OnlineSecurity_1,9.0,7.0,16.0,10.666666666666666
+Contract_Two year,11.0,5.0,19.0,11.666666666666666
+OnlineBackup_1,10.0,12.0,14.0,12.0
+StreamingMovies_1,5.0,22.0,10.0,12.333333333333334
+StreamingTV_1,6.0,24.0,11.0,13.666666666666666
+MultipleLines_Yes,14.0,19.0,8.0,13.666666666666666
+DeviceProtection_1,13.0,16.0,13.0,14.0
+gender,28.0,13.0,6.0,15.666666666666666
+Partner,29.0,11.0,9.0,16.333333333333332
